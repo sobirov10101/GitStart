@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(41, 41, 152);
+}
+.roy{
+    width: 560px;
+    height: 350px;
+    /* background-color: aqua; */
+    border-radius: 15px;
+    background: linear-gradient(#0a096182,#0e0265b1);
+    margin-top: 210px;
+    margin-left: 490px;
+    padding: 15px;
+}
+p{
+    color: rgb(186, 199, 210);
+}
+input{
+    width: 510px;
+    height: 45px;
+    font-size: 17px;
+    padding: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 2px solid black;
+    background: linear-gradient(#6d6cad82,#8279c2b1);
+}
+.tugma{
+    margin-top: 30px;
+    text-align: center;
+}
+button{
+    padding: 12px 90px;
+    border-radius: 15px;
+    background: linear-gradient(#8651fad0,#240fc5c2);
+    color: white;
+    font-size: 17px;
+}
+a{
+    color: white;
+    text-decoration: none;
+        margin-left: 12px;
+
+}
+.a2{
+    margin-left: 8px;
+}
