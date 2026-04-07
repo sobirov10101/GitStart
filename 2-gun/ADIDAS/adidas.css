@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.herder{
+    height: 92px;
+    width: 100%;
+    background-color:  #ACDFEB;
+}
+.continer{
+    width: 90%;
+    margin: 0 auto;
+}
+.harde{
+     display: flex;
+     width: 94%;
+     margin: 0 auto;
+     line-height: 70px;
+     padding: 10px;
+     justify-content: space-between;
+}
+.rasm>img{
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+}
+.link{
+    margin-left: -190px;
+}
+.link>a{
+    text-decoration: none;
+    color: rgb(16, 17, 18);
+    margin-left: 30px;
+    font-size: 16px;
+}
+.link>a:hover{
+   color: coral;
+   border-bottom: 2px solid coral ;
+   padding-bottom: 38px;
+   transition: all 0.8s;
+}
+i{
+    font-size: 27px;
+    color: rgb(0, 0, 0);
+    margin-top: 22px;
+}
+.ikon>p{
+     font-size: 16.2px;
+     margin-left: 10px;
+}
+.ikon{
+    display: flex;
+}
+.continer{
+    background-color: #c6e2ea;
+    width: 100%;
+    height: 743px;
+}
+.con1{
+    width: 94%;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+}
+.krasm>p{
+    margin-top: 60px;
+    margin-left: 70px;
+    color: rgb(149, 149, 149);
+}
+.krasm{
+    width: 50%;
+}
+.rasmm>img{
+    text-align: center;
+    margin-top: -79px;
+    margin-left: -70px;
+    width: 100%;
+    height: 100%;
+}
+.malumot{
+    width: 550px;
+    padding: 10px;
+}
+.malumot>h1{
+    margin-top: 70px;
+    font-size: 38px;
+    font-weight: 900;
+}
+.k1{
+    display: flex;
+}
+.kb1{
+    width: 45px;
+    height: 45px;
+    background-color: rgb(27, 3, 64);
+    border-radius: 9px;
+}
+.kb2{
+     width: 45px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 9px;
+    margin-left: 15px;
+}
+.kb3{
+     width: 45px;
+    height: 45px;
+    background-color: rgb(214, 241, 10);
+    border-radius: 9px;
+    margin-left: 15px;
+}
+.son{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+.son>p{
+    font-size: 18px;
+}
+.md{
+  width: 280px;  
+}
+.md>p{
+    margin-left: 135px;
+    color: rgb(95, 94, 94);
+    width: 5px;
+    background-color: rgb(95, 94, 94);
+}
+.dostov>i{
+    height: 30px;
+    width: 30px;
+    background-color:rgb(161, 159, 159) ;
+    font-size: 19px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+}
+span{
+    margin-left: 10px;
+    color: rgb(149, 149, 149);      
+}
+.yubor>i{
+    height: 30px;
+    width: 30px;
+    background-color:rgb(161, 159, 159) ;
+    font-size: 19px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+button{
+    padding: 9px 52px;
+    font-weight: 900;
+    color: white;
+    font-size: 16px;
+    background-color: rgb(177, 177, 89);
+    border-radius: 10px;
+    margin-left: 150px;
+}
+button:hover{
+    background-color: coral;
+}
+.malumot>p{
+    color: rgb(149, 149, 149);
+}
