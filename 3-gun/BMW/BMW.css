@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(orqa.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 813px;
+
+}
+.continer{
+    width: 90%;
+    margin: 0 auto;
+}
+.link>a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 50px;
+    font-size: 16px;
+}
+.link>a:hover{
+    color: rgb(160, 160, 224);
+}
+.herder{
+    display: flex;
+    line-height: 70px;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.menu{
+    display: flex;
+}
+.bmwimg{
+    line-height: 10;
+}
+.bmwimg>img{
+    width: 1040px;
+    height: 606px;
+    float: right;
+    margin-right: -80px;
+}
+.malumot{
+    margin-top: 23px;
+    width: 30%;
+    color: aliceblue;
+    float: left;
+}
+.malumot>h1{
+    font-size: 65px;
+}
+.hug1{
+    width: 125px;
+    height: 45px;
+    border-radius: 13px;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+}
+.hug2{
+     width: 115px;
+    height: 45px;
+    border-radius: 13px;
+    border: 1px solid white;
+    background-color: rgba(240, 248, 255, 0);
+     color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 600;
+}
+.stat{
+    display: flex;
+    width: 500px;
+    height: 100px;
+    justify-content: space-between;
+    margin-top: -35px;
+    float: left;
+}
+span{
+    color: white;
+}
+.km{
+    color: rgb(141, 16, 16);
+}
+.tezlik{
+    font-size: 40px;
+}
+.tez{
+    text-align: center;
+}
+.tug>button{
+    padding: 10px 20px;
+    border-radius: 13px;
+    border: 1px solid white;
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: 600;
+}
+.ohir{
+    display: flex;
+    justify-content: space-between;
+}
+.tug{
+    line-height: 1;
+}
