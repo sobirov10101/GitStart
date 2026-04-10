@@ -1,0 +1,13 @@
+h1{
+    color: red;
+    text-align: center;
+    line-height: 22;
+    background-color: antiquewhite;
+    border-radius: 60%;
+    /* width: 700px;
+    height: 200px; */
+}
+h1:hover{
+    color: aqua;
+    background-color: aliceblue;
+}
