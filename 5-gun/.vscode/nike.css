@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(pexels-mstudio-360817-1307128.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.ota{
+    width: 90%;
+    margin: 0 auto;
+}
+.continer{
+    display: flex;
+    height: 102px;
+    width: 100%;
+    
+}
+.rasm>img{
+    width: 137px;
+    height: 115px;
+    font-size: 50px;
+    color: black;
+}
+.link>a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 30px;
+    font-size: 16px;
+    line-height: 100p
+}
+i{
+    
+    text-align: center;
+    font-size: 30px;
+    color: rgb(117, 117, 116);
+    margin-top: 30px;
+}
+.link{
+    line-height: 100px;
+    margin-left: 150px;
+}
+.ikon{
+    margin-left: 670px;
+}
+.link>a:hover{
+    color: coral;
+}
+.asosiy{
+    margin-top: 28px;
+    width: 30%;
+    color: aliceblue;
+    padding: 12px;
+}
+h1{
+    font-size: 69px;
+}
+.lir{
+    color: chocolate;
+}
+.xar{
+    padding: 17px 46px;
+    border-radius: 15px;
+    background: linear-gradient(55deg,#3c2222,#de6021);
+}
+.ob{
+    padding: 17px 30px;
+    border-radius: 15px;
+    margin-left: 10px;
+    background-color: rgba(221, 67, 12, 0.19);
+}
+.fa-solid{
+    font-size: 25px;
+    margin-left: 15px;
+}
